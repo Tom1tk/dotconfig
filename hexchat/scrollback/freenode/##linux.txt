@@ -1,0 +1,145 @@
+T 1525289378 19*	Now talking on 22##linux
+T 1525289378 22*	Topic for 22##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Set /umode +R if you're getting tons of nonsensical PMs | Feel at home and enjoy your stay!
+T 1525289378 22*	Topic for 22##linux set by 26bocaneri (24Sun Dec  4 07:21:22 2016)
+T 1525289379 -18ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+T 1525289379 22*	Channel 22##linux url: 24http://linux.chat
+T 1525289383 24*	schu-r has quit (Quit: schu-r)
+T 1525289404 24*	Aztec03 has quit (Ping timeout: 268 seconds)
+T 1525289433 23*	LtL (~ltl@unaffiliated/ltl23) has joined
+T 1525289446 24*	Mr_Keyser_Soze has quit (Max SendQ exceeded)
+T 1525289462 23*	RingtailedFox (~FoxFoxFox@2001:1970:5d2a:c500:1c82:59b:e168:ca3a23) has joined
+T 1525289477 23*	Mr_Keyser_Soze (~Mr_Keyser@209-248-100-160.falconbroadband.net23) has joined
+T 1525289484 23*	maxxie (~maxxie@151.24.249.19823) has joined
+T 1525289499 23*	jottr (~jottr@unaffiliated/jottr23) has joined
+T 1525289515 23*	pity (~pity@113.92.154.23423) has joined
+T 1525289529 24*	pabed has quit (Ping timeout: 264 seconds)
+T 1525289530 24*	isokee has quit (Remote host closed the connection)
+T 1525289538 23*	nobodi (~nobodi@142.157.12.17123) has joined
+T 1525289538 24*	collyrium has quit (Read error: Connection reset by peer)
+T 1525289539 23*	BeWilled (ba50cd7e@gateway/web/freenode/ip.186.80.205.12623) has joined
+T 1525289546 23*	isokee (~isokee@unaffiliated/isokee23) has joined
+T 1525289555 24*	NeoGeo64 has quit (Quit: Leaving)
+T 1525289557 24*	livingstn has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1525289564 23*	pabed (~pabed@81.12.52.13023) has joined
+T 1525289565 24*	sudormrf has quit (Ping timeout: 264 seconds)
+T 1525289577 23*	cliluw (~cliluw@unaffiliated/cliluw23) has joined
+T 1525289579 24*	kallesbar has quit (Ping timeout: 260 seconds)
+T 1525289597 23*	collyrium (~godlessfa@unaffiliated/godlessfather23) has joined
+T 1525289603 24*	Mr_Keyser_Soze has quit (Max SendQ exceeded)
+T 1525289626 24*	isokee has quit (Remote host closed the connection)
+T 1525289643 23*	Mr_Keyser_Soze (~Mr_Keyser@209-248-100-160.falconbroadband.net23) has joined
+T 1525289645 23*	isokee (~isokee@unaffiliated/isokee23) has joined
+T 1525289652 24*	HMe110w (~HMe110w@173.168.236.4824) has left
+T 1525289669 24*	BeWilled has quit (Client Quit)
+T 1525289689 23*	FreeBirdLjj (~freebirdl@124.77.193.5323) has joined
+T 1525289709 23*	Dreaman (~Dreaman@95-42-54-3.ip.btc-net.bg23) has joined
+T 1525289726 23*	littlebean (sid204354@gateway/web/irccloud.com/x-xpkfxojlrybrbgwd23) has joined
+T 1525289728 23*	freswa (~freswa@213.240.182.9323) has joined
+T 1525289731 24*	Burrito has quit (Remote host closed the connection)
+T 1525289765 24*	pity has quit (Ping timeout: 240 seconds)
+T 1525289784 24*	renn0xtk9 has quit (Quit: Konversation terminated!)
+T 1525289789 24*	jottr has quit (Ping timeout: 260 seconds)
+T 1525289790 24*	cagomez has quit (Remote host closed the connection)
+T 1525289804 23*	Burrito (~Burrito@unaffiliated/burrito23) has joined
+T 1525289808 24*	systemdave has quit (Quit: WeeChat 2.0.1)
+T 1525289828 23*	cagomez (~cagomez@sb0-cf9a61b1.dsl.impulse.net23) has joined
+T 1525289831 18<littlebean18>	anyone know why otr isn't showing up in pidgins plugins?
+T 1525289839 24*	28hmoreno1 is now known as 18morenoh149
+T 1525289839 18<littlebean18>	manjaro distro
+T 1525289846 24*	minipini has quit (Ping timeout: 256 seconds)
+T 1525289884 18<bls18>	maybe ask the manjaro channel
+T 1525289886 18<MrPockets18>	Word
+T 1525289903 18<littlebean18>	thanks
+T 1525289921 18<bls18>	they may package it separately
+T 1525290055 23*	iamfrankenstein (~Thunderbi@a200154.upc-a.chello.nl23) has joined
+T 1525290095 24*	ZekeS has quit (Ping timeout: 240 seconds)
+T 1525290117 24*	cagomez has quit (Ping timeout: 240 seconds)
+T 1525290123 23*	livingstn (~livingstn@4.34.16.20923) has joined
+T 1525290134 24*	prillian5 has quit (Quit: Konversation terminated!)
+T 1525290134 24*	collyrium has quit (Read error: Connection reset by peer)
+T 1525290139 23*	jamiejackson (c7df1efe@gateway/web/cgi-irc/kiwiirc.com/ip.199.223.30.25423) has joined
+T 1525290166 24*	xorkle has quit (Quit: ZNC 1.6.6 - http://znc.in)
+T 1525290184 24*	G33kGurl has quit (Quit: Leaving)
+T 1525290198 23*	xorkle (~zoral@unaffiliated/matrixiumn23) has joined
+T 1525290203 23*	JacobsLadd3r (~JacobsLad@megapurple.laika.com23) has joined
+T 1525290210 24*	tvm has quit (Quit: leaving)
+T 1525290217 23*	collyrium (~godlessfa@unaffiliated/godlessfather23) has joined
+T 1525290219 24*	livingstn has quit (Client Quit)
+T 1525290226 24*	Mr_Keyser_Soze has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1525290241 23*	bcmiller1 (~Thunderbi@2601:190:4200:1e6a:508f:fd9d:953:6a6923) has joined
+T 1525290290 23*	NeoGeo64 (~linux@2604:2d80:8831:0:3077:79ec:90c2:116023) has joined
+T 1525290314 23*	Mr_Keyser_Soze (~Mr_Keyser@209-248-100-160.falconbroadband.net23) has joined
+T 1525290317 24*	Mr_Keyser_Soze has quit (Client Quit)
+T 1525290319 23*	akay_ (akay@unaffiliated/akay23) has joined
+T 1525290358 24*	akay has quit (Read error: Connection reset by peer)
+T 1525290376 23*	Celmor (~Celmor@unaffiliated/celmor23) has joined
+T 1525290380 18<Celmor18>	what's process state T?
+T 1525290384 24*	realbadhorse has quit (Ping timeout: 260 seconds)
+T 1525290397 24*	isokee has quit (Ping timeout: 256 seconds)
+T 1525290404 18<bipul18>	Terminate.
+T 1525290409 24*	_iznogoud__ has quit (Quit: WeeChat 2.1)
+T 1525290421 23*	kremator (~dr4ken@150.187.77.14423) has joined
+T 1525290431 23*	dsf_ (~dxf@218.122.96.58.static.exetel.com.au23) has joined
+T 1525290436 23*	jottr (~jottr@unaffiliated/jottr23) has joined
+T 1525290449 18<Celmor18>	process doesn't seem to terminate though
+T 1525290454 24*	Marquezini has quit (Ping timeout: 260 seconds)
+T 1525290460 18<Celmor18>	or be able to get killed
+T 1525290465 23*	Aztec03 (~SmokinGru@96-92-220-81-static.hfc.comcastbusiness.net23) has joined
+T 1525290476 23*	isokee (~isokee@unaffiliated/isokee23) has joined
+T 1525290490 23*	_iznogoud__ (~vasco@95.148.137.18123) has joined
+T 1525290491 18<kremator18>	Celmor, kill it with root user and -9
+T 1525290508 24*	_iznogoud__ has quit (Client Quit)
+T 1525290557 23*	jungsubk (~jungsubk@121.130.170.323) has joined
+T 1525290560 24*	manuelschneid3r has quit (Ping timeout: 265 seconds)
+T 1525290581 23*	Discovery (~Discovery@45.74.22.13623) has joined
+T 1525290582 24*	almaz has quit (Remote host closed the connection)
+T 1525290586 24*	Discovery (~Discovery@45.74.22.13624) has left
+T 1525290588 23*	Discovery (~Discovery@45.74.22.13623) has joined
+T 1525290597 24*	wonderworld has quit (Remote host closed the connection)
+T 1525290607 24*	Discovery (~Discovery@45.74.22.13624) has left
+T 1525290608 23*	Discovery (~Discovery@45.74.22.13623) has joined
+T 1525290613 24*	Discovery (~Discovery@45.74.22.13624) has left
+T 1525290618 23*	Discovery (~Discovery@45.74.22.13623) has joined
+T 1525290618 24*	Discovery (~Discovery@45.74.22.13624) has left
+T 1525290629 23*	anton-z-s (~anthony@176.212.16.5623) has joined
+T 1525290681 24*	lasdam has quit (Ping timeout: 256 seconds)
+T 1525290700 23*	shabius (~shabius@proxy.se1.azirevpn.net23) has joined
+T 1525290731 23*	manuelschneid3r (~manuelsch@p57AE3F17.dip0.t-ipconnect.de23) has joined
+T 1525290731 24*	dsf_ has quit (Ping timeout: 255 seconds)
+T 1525290732 24*	collyrium has quit (Read error: Connection reset by peer)
+T 1525290738 24*	section1 has quit (Quit: Leaving)
+T 1525290740 23*	j0z_ (~l0xas@2001:1284:f016:8a0a:b996:e244:3d9f:b3f123) has joined
+T 1525290740 24*	j0z_ has quit (Changing host)
+T 1525290740 23*	j0z_ (~l0xas@unaffiliated/j0z23) has joined
+T 1525290755 23*	__heisenbug (~heisenbug@unaffiliated/heisenbug/x-684768623) has joined
+T 1525290756 18<Celmor18>	that worked
+T 1525290760 23*	crayon (~crayon@unaffiliated/crayon23) has joined
+T 1525290772 23*	collyrium (~godlessfa@unaffiliated/godlessfather23) has joined
+T 1525290778 18<Celmor18>	still wondering why my terminal spawned so many bash procoesses
+T 1525290789 24*	ca_cabot has quit (Remote host closed the connection)
+T 1525290804 23*	cagomez (~cagomez@sb0-cf9a61b1.dsl.impulse.net23) has joined
+T 1525290832 24*	fearnothing has quit (Ping timeout: 260 seconds)
+T 1525290840 18<bls18>	infinite loop in a script / dotfile? buggy program
+T 1525290840 24*	ezio has quit (Read error: Connection reset by peer)
+T 1525290841 18<kremator18>	Celmor, mmm, which terminal emulator do you use?
+T 1525290858 18<bls18>	really doubt it's your terminal that did it
+T 1525290859 18<Celmor18>	gnome-terminal, other terminal windows are fine
+T 1525290862 23*	lifeframe (uid290080@gateway/web/irccloud.com/x-ygwixcnwtdznddkv23) has joined
+T 1525290884 18<Celmor18>	https://ptpb.pw/6zg0
+T 1525290888 18<bls18>	if you see it again, you can use pstree to find out what program is actually starting them all
+T 1525290888 23*	Ignacy (~Ignacy@cA0AD00C3.dhcp.as2116.net23) has joined
+T 1525290891 18<kremator18>	bls, im just discarding stuff, you never knows when someone is running that 1337 emulator from a dark github erpository
+T 1525290914 23*	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com23) has joined
+T 1525290926 18<uplime18>	bls: could be a buggy terminal emulator that spawned a bunch of login shells
+T 1525290934 24*	Fye has quit (Quit: Bye.)
+T 1525290936 24*	beemo_ceniza has quit (Read error: Connection reset by peer)
+T 1525290940 23*	abc (25c9d763@gateway/web/freenode/ip.37.201.215.9923) has joined
+T 1525290951 24*	bcmiller1 has quit (Ping timeout: 240 seconds)
+T 1525290952 24*	28abc is now known as 18Guest80516
+T 1525290956 23*	beemo_ceniza (~beemo_cen@unaffiliated/beemo-ceniza/x-957773623) has joined
+T 1525290972 24*	illkitten has quit (Client Quit)
+T 1525290975 24*	jini has quit (Ping timeout: 256 seconds)
+T 1525290977 24*	antgel_ has quit (Ping timeout: 248 seconds)
+T 1525290982 23*	nelek (~nf@unaffiliated/nelek23) has joined
+T 1525290994 24*	beemo_ceniza has quit (Max SendQ exceeded)
+T 1525290994 23*	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com23) has joined

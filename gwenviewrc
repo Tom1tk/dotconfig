@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename
+
+[MainWindow]
+Height 1024=480
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAAv4AAAGZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=764
+Width 1920=766
+
+[Recent Files]
+File1[$e]=https://cdn.discordapp.com/attachments/422356341911322637/437585154995781643/ylo6z7D.png
+File2[$e]=https://cdn.discordapp.com/attachments/422356341911322637/437584990663081993/yesnew3point5.png
+File3[$e]=$HOME/Pictures/stardew.png
+File4[$e]=$HOME/Pictures/audio config.png
+Name1[$e]=ylo6z7D.png
+Name2[$e]=yesnew3point5.png
+Name3[$e]=stardew.png
+Name4[$e]=audio config.png

@@ -1,0 +1,28 @@
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+
+[KTextEditor::Search]
+Search History=windows
+
+[MainWindow]
+Height 1024=730
+Height 1080=730
+State=AAAA/wAAAAD9AAAAAAAAA4sAAAK5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=907
+Width 1920=907
+
+[filetree]
+editShade=44,104,138
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=58,96,142

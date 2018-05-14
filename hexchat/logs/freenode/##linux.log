@@ -1,0 +1,149 @@
+**** BEGIN LOGGING AT Wed May  2 20:29:38 2018
+
+May 02 20:29:38 *	Now talking on ##linux
+May 02 20:29:38 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Set /umode +R if you're getting tons of nonsensical PMs | Feel at home and enjoy your stay!
+May 02 20:29:38 *	Topic for ##linux set by bocaneri (Sun Dec  4 07:21:22 2016)
+May 02 20:29:39 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+May 02 20:29:39 *	Channel ##linux url: http://linux.chat
+May 02 20:29:43 *	schu-r has quit (Quit: schu-r)
+May 02 20:30:04 *	Aztec03 has quit (Ping timeout: 268 seconds)
+May 02 20:30:33 *	LtL (~ltl@unaffiliated/ltl) has joined
+May 02 20:30:46 *	Mr_Keyser_Soze has quit (Max SendQ exceeded)
+May 02 20:31:02 *	RingtailedFox (~FoxFoxFox@2001:1970:5d2a:c500:1c82:59b:e168:ca3a) has joined
+May 02 20:31:17 *	Mr_Keyser_Soze (~Mr_Keyser@209-248-100-160.falconbroadband.net) has joined
+May 02 20:31:24 *	maxxie (~maxxie@151.24.249.198) has joined
+May 02 20:31:39 *	jottr (~jottr@unaffiliated/jottr) has joined
+May 02 20:31:55 *	pity (~pity@113.92.154.234) has joined
+May 02 20:32:09 *	pabed has quit (Ping timeout: 264 seconds)
+May 02 20:32:10 *	isokee has quit (Remote host closed the connection)
+May 02 20:32:18 *	nobodi (~nobodi@142.157.12.171) has joined
+May 02 20:32:18 *	collyrium has quit (Read error: Connection reset by peer)
+May 02 20:32:19 *	BeWilled (ba50cd7e@gateway/web/freenode/ip.186.80.205.126) has joined
+May 02 20:32:26 *	isokee (~isokee@unaffiliated/isokee) has joined
+May 02 20:32:35 *	NeoGeo64 has quit (Quit: Leaving)
+May 02 20:32:37 *	livingstn has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+May 02 20:32:44 *	pabed (~pabed@81.12.52.130) has joined
+May 02 20:32:45 *	sudormrf has quit (Ping timeout: 264 seconds)
+May 02 20:32:57 *	cliluw (~cliluw@unaffiliated/cliluw) has joined
+May 02 20:32:59 *	kallesbar has quit (Ping timeout: 260 seconds)
+May 02 20:33:17 *	collyrium (~godlessfa@unaffiliated/godlessfather) has joined
+May 02 20:33:23 *	Mr_Keyser_Soze has quit (Max SendQ exceeded)
+May 02 20:33:46 *	isokee has quit (Remote host closed the connection)
+May 02 20:34:03 *	Mr_Keyser_Soze (~Mr_Keyser@209-248-100-160.falconbroadband.net) has joined
+May 02 20:34:05 *	isokee (~isokee@unaffiliated/isokee) has joined
+May 02 20:34:12 *	HMe110w (~HMe110w@173.168.236.48) has left
+May 02 20:34:29 *	BeWilled has quit (Client Quit)
+May 02 20:34:49 *	FreeBirdLjj (~freebirdl@124.77.193.53) has joined
+May 02 20:35:09 *	Dreaman (~Dreaman@95-42-54-3.ip.btc-net.bg) has joined
+May 02 20:35:26 *	littlebean (sid204354@gateway/web/irccloud.com/x-xpkfxojlrybrbgwd) has joined
+May 02 20:35:28 *	freswa (~freswa@213.240.182.93) has joined
+May 02 20:35:31 *	Burrito has quit (Remote host closed the connection)
+May 02 20:36:05 *	pity has quit (Ping timeout: 240 seconds)
+May 02 20:36:24 *	renn0xtk9 has quit (Quit: Konversation terminated!)
+May 02 20:36:29 *	jottr has quit (Ping timeout: 260 seconds)
+May 02 20:36:30 *	cagomez has quit (Remote host closed the connection)
+May 02 20:36:44 *	Burrito (~Burrito@unaffiliated/burrito) has joined
+May 02 20:36:48 *	systemdave has quit (Quit: WeeChat 2.0.1)
+May 02 20:37:08 *	cagomez (~cagomez@sb0-cf9a61b1.dsl.impulse.net) has joined
+May 02 20:37:11 <littlebean>	anyone know why otr isn't showing up in pidgins plugins?
+May 02 20:37:19 *	hmoreno1 is now known as morenoh149
+May 02 20:37:19 <littlebean>	manjaro distro
+May 02 20:37:26 *	minipini has quit (Ping timeout: 256 seconds)
+May 02 20:38:04 <bls>	maybe ask the manjaro channel
+May 02 20:38:06 <MrPockets>	Word
+May 02 20:38:23 <littlebean>	thanks
+May 02 20:38:41 <bls>	they may package it separately
+May 02 20:40:55 *	iamfrankenstein (~Thunderbi@a200154.upc-a.chello.nl) has joined
+May 02 20:41:35 *	ZekeS has quit (Ping timeout: 240 seconds)
+May 02 20:41:57 *	cagomez has quit (Ping timeout: 240 seconds)
+May 02 20:42:03 *	livingstn (~livingstn@4.34.16.209) has joined
+May 02 20:42:14 *	prillian5 has quit (Quit: Konversation terminated!)
+May 02 20:42:14 *	collyrium has quit (Read error: Connection reset by peer)
+May 02 20:42:19 *	jamiejackson (c7df1efe@gateway/web/cgi-irc/kiwiirc.com/ip.199.223.30.254) has joined
+May 02 20:42:46 *	xorkle has quit (Quit: ZNC 1.6.6 - http://znc.in)
+May 02 20:43:04 *	G33kGurl has quit (Quit: Leaving)
+May 02 20:43:18 *	xorkle (~zoral@unaffiliated/matrixiumn) has joined
+May 02 20:43:23 *	JacobsLadd3r (~JacobsLad@megapurple.laika.com) has joined
+May 02 20:43:30 *	tvm has quit (Quit: leaving)
+May 02 20:43:37 *	collyrium (~godlessfa@unaffiliated/godlessfather) has joined
+May 02 20:43:39 *	livingstn has quit (Client Quit)
+May 02 20:43:46 *	Mr_Keyser_Soze has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+May 02 20:44:01 *	bcmiller1 (~Thunderbi@2601:190:4200:1e6a:508f:fd9d:953:6a69) has joined
+May 02 20:44:50 *	NeoGeo64 (~linux@2604:2d80:8831:0:3077:79ec:90c2:1160) has joined
+May 02 20:45:14 *	Mr_Keyser_Soze (~Mr_Keyser@209-248-100-160.falconbroadband.net) has joined
+May 02 20:45:17 *	Mr_Keyser_Soze has quit (Client Quit)
+May 02 20:45:19 *	akay_ (akay@unaffiliated/akay) has joined
+May 02 20:45:58 *	akay has quit (Read error: Connection reset by peer)
+May 02 20:46:16 *	Celmor (~Celmor@unaffiliated/celmor) has joined
+May 02 20:46:20 <Celmor>	what's process state T?
+May 02 20:46:24 *	realbadhorse has quit (Ping timeout: 260 seconds)
+May 02 20:46:37 *	isokee has quit (Ping timeout: 256 seconds)
+May 02 20:46:44 <bipul>	Terminate.
+May 02 20:46:49 *	_iznogoud__ has quit (Quit: WeeChat 2.1)
+May 02 20:47:01 *	kremator (~dr4ken@150.187.77.144) has joined
+May 02 20:47:11 *	dsf_ (~dxf@218.122.96.58.static.exetel.com.au) has joined
+May 02 20:47:16 *	jottr (~jottr@unaffiliated/jottr) has joined
+May 02 20:47:29 <Celmor>	process doesn't seem to terminate though
+May 02 20:47:34 *	Marquezini has quit (Ping timeout: 260 seconds)
+May 02 20:47:40 <Celmor>	or be able to get killed
+May 02 20:47:45 *	Aztec03 (~SmokinGru@96-92-220-81-static.hfc.comcastbusiness.net) has joined
+May 02 20:47:56 *	isokee (~isokee@unaffiliated/isokee) has joined
+May 02 20:48:10 *	_iznogoud__ (~vasco@95.148.137.181) has joined
+May 02 20:48:11 <kremator>	Celmor, kill it with root user and -9
+May 02 20:48:28 *	_iznogoud__ has quit (Client Quit)
+May 02 20:49:17 *	jungsubk (~jungsubk@121.130.170.3) has joined
+May 02 20:49:20 *	manuelschneid3r has quit (Ping timeout: 265 seconds)
+May 02 20:49:41 *	Discovery (~Discovery@45.74.22.136) has joined
+May 02 20:49:42 *	almaz has quit (Remote host closed the connection)
+May 02 20:49:46 *	Discovery (~Discovery@45.74.22.136) has left
+May 02 20:49:48 *	Discovery (~Discovery@45.74.22.136) has joined
+May 02 20:49:57 *	wonderworld has quit (Remote host closed the connection)
+May 02 20:50:07 *	Discovery (~Discovery@45.74.22.136) has left
+May 02 20:50:08 *	Discovery (~Discovery@45.74.22.136) has joined
+May 02 20:50:13 *	Discovery (~Discovery@45.74.22.136) has left
+May 02 20:50:18 *	Discovery (~Discovery@45.74.22.136) has joined
+May 02 20:50:18 *	Discovery (~Discovery@45.74.22.136) has left
+May 02 20:50:29 *	anton-z-s (~anthony@176.212.16.56) has joined
+May 02 20:51:21 *	lasdam has quit (Ping timeout: 256 seconds)
+May 02 20:51:40 *	shabius (~shabius@proxy.se1.azirevpn.net) has joined
+May 02 20:52:11 *	manuelschneid3r (~manuelsch@p57AE3F17.dip0.t-ipconnect.de) has joined
+May 02 20:52:11 *	dsf_ has quit (Ping timeout: 255 seconds)
+May 02 20:52:12 *	collyrium has quit (Read error: Connection reset by peer)
+May 02 20:52:18 *	section1 has quit (Quit: Leaving)
+May 02 20:52:20 *	j0z_ (~l0xas@2001:1284:f016:8a0a:b996:e244:3d9f:b3f1) has joined
+May 02 20:52:20 *	j0z_ has quit (Changing host)
+May 02 20:52:20 *	j0z_ (~l0xas@unaffiliated/j0z) has joined
+May 02 20:52:35 *	__heisenbug (~heisenbug@unaffiliated/heisenbug/x-6847686) has joined
+May 02 20:52:36 <Celmor>	that worked
+May 02 20:52:40 *	crayon (~crayon@unaffiliated/crayon) has joined
+May 02 20:52:52 *	collyrium (~godlessfa@unaffiliated/godlessfather) has joined
+May 02 20:52:58 <Celmor>	still wondering why my terminal spawned so many bash procoesses
+May 02 20:53:09 *	ca_cabot has quit (Remote host closed the connection)
+May 02 20:53:24 *	cagomez (~cagomez@sb0-cf9a61b1.dsl.impulse.net) has joined
+May 02 20:53:52 *	fearnothing has quit (Ping timeout: 260 seconds)
+May 02 20:54:00 <bls>	infinite loop in a script / dotfile? buggy program
+May 02 20:54:00 *	ezio has quit (Read error: Connection reset by peer)
+May 02 20:54:01 <kremator>	Celmor, mmm, which terminal emulator do you use?
+May 02 20:54:18 <bls>	really doubt it's your terminal that did it
+May 02 20:54:19 <Celmor>	gnome-terminal, other terminal windows are fine
+May 02 20:54:22 *	lifeframe (uid290080@gateway/web/irccloud.com/x-ygwixcnwtdznddkv) has joined
+May 02 20:54:44 <Celmor>	https://ptpb.pw/6zg0
+May 02 20:54:48 <bls>	if you see it again, you can use pstree to find out what program is actually starting them all
+May 02 20:54:48 *	Ignacy (~Ignacy@cA0AD00C3.dhcp.as2116.net) has joined
+May 02 20:54:51 <kremator>	bls, im just discarding stuff, you never knows when someone is running that 1337 emulator from a dark github erpository
+May 02 20:55:14 *	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com) has joined
+May 02 20:55:26 <uplime>	bls: could be a buggy terminal emulator that spawned a bunch of login shells
+May 02 20:55:34 *	Fye has quit (Quit: Bye.)
+May 02 20:55:36 *	beemo_ceniza has quit (Read error: Connection reset by peer)
+May 02 20:55:40 *	abc (25c9d763@gateway/web/freenode/ip.37.201.215.99) has joined
+May 02 20:55:51 *	bcmiller1 has quit (Ping timeout: 240 seconds)
+May 02 20:55:52 *	abc is now known as Guest80516
+May 02 20:55:56 *	beemo_ceniza (~beemo_cen@unaffiliated/beemo-ceniza/x-9577736) has joined
+May 02 20:56:12 *	illkitten has quit (Client Quit)
+May 02 20:56:15 *	jini has quit (Ping timeout: 256 seconds)
+May 02 20:56:17 *	antgel_ has quit (Ping timeout: 248 seconds)
+May 02 20:56:22 *	nelek (~nf@unaffiliated/nelek) has joined
+May 02 20:56:34 *	beemo_ceniza has quit (Max SendQ exceeded)
+May 02 20:56:34 *	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com) has joined
+**** ENDING LOGGING AT Wed May  2 20:56:47 2018
+

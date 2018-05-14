@@ -1,0 +1,8 @@
+system:
+  env:
+    DXVK_HUD: ''
+  game_path: ~/Games
+winesteam:
+  MouseWarpOverride: enable
+  steam_path: ~/Games/Steam/drive_c/Program Files (x86)/Steam
+  version: staging-3.5-x86_64

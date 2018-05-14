@@ -1,0 +1,6 @@
+T 1525289388 19*	Now talking on 22#gnulinuxlovers
+T 1525289388 22*	Topic for 22#gnulinuxlovers is: A group to discuss anything and everything related to Free Software, in Malayalam. Linked to Matrix and to Telegram.
+T 1525289388 22*	Topic for 22#gnulinuxlovers set by 26bsc!balasankar@wikisource/Balasankarc (24Fri Dec 15 18:55:23 2017)
+T 1525290198 20<Tom1>30	man i love gnu linux
+T 1525290681 24*	lasdam has quit (Ping timeout: 256 seconds)
+T 1525291007 Python interface unloaded

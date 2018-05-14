@@ -1,0 +1,20 @@
+[FileDialogSize]
+Height 1024=480
+Width 1280=640
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/tom1 dock2.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[ScreenConnectors]
+10=DVI-D-0
+11=DP-4
+
+[UniversalSettings]
+currentLayout=tom1 dock
+lastNonAssignedLayout=tom1 dock
+launchers=
+layoutsWindowSize=700,450
+showInfoWindow=false
+userConfiguredAutostart=true
+version=2

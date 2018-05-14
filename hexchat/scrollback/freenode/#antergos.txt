@@ -1,0 +1,16 @@
+T 1525289217 19*	Now talking on 22#antergos
+T 1525289217 22*	Topic for 22#antergos is: https://antergos.com | IRC Help Guide: https://bit.ly/1VX6uz3 | FAQs: http://bit.ly/2cqzhx4 | Forum: https://bit.ly/1VWu9dz | Antergos News: https://bit.ly/1Lekts6 | Arch News: https://bit.ly/1sWFfoE | Current ISOs: 17.11 https://is.gd/RgTSlh (7 Nov 2017) | Please don't ask for Antergos support in Arch channels | Off topic chat in #antergos-offtopic
+T 1525289217 22*	Topic for 22#antergos set by 26Botergos (24Tue Nov  7 13:37:35 2017)
+T 1525289217 -18ChanServ-	[#antergos] Welcome to Antergos IRC channel, please start by reading topic (should read on top or when you join). | All messages from IRC are sent to https://telegram.me/Antergos and vice versa, for more information check https://forum.antergos.com/topic/4244/irc-has-branched-out-to-telegram .
+T 1525289252 Python interface unloaded
+T 1525289252 FiSHLiM plugin unloaded
+T 1525289289 19*	Now talking on 22#antergos
+T 1525289289 22*	Topic for 22#antergos is: https://antergos.com | IRC Help Guide: https://bit.ly/1VX6uz3 | FAQs: http://bit.ly/2cqzhx4 | Forum: https://bit.ly/1VWu9dz | Antergos News: https://bit.ly/1Lekts6 | Arch News: https://bit.ly/1sWFfoE | Current ISOs: 17.11 https://is.gd/RgTSlh (7 Nov 2017) | Please don't ask for Antergos support in Arch channels | Off topic chat in #antergos-offtopic
+T 1525289289 22*	Topic for 22#antergos set by 26Botergos (24Tue Nov  7 13:37:35 2017)
+T 1525289290 -18ChanServ-	[#antergos] Welcome to Antergos IRC channel, please start by reading topic (should read on top or when you join). | All messages from IRC are sent to https://telegram.me/Antergos and vice versa, for more information check https://forum.antergos.com/topic/4244/irc-has-branched-out-to-telegram .
+T 1525289472 23*	Blizzz (~blizzz@ubuntu/member/blizzz23) has joined
+T 1525290241 23*	BuZZ-dEE (~buzz-dee@dyndsl-091-248-053-011.ewe-ip-backbone.de23) has joined
+T 1525290486 24*	_akmod has quit (Quit: Leaving)
+T 1525290609 23*	nxt (~nxt@213.147.114.25423) has joined
+T 1525290783 24*	nxt has quit (Remote host closed the connection)
+T 1525290794 23*	nxt (~nxt@213.147.114.25423) has joined

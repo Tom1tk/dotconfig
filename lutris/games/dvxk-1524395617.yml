@@ -1,0 +1,13 @@
+game:
+  arch: win64
+  exe: /home/tom1/Games/Steam/drive_c/Program Files (x86)/Steam/Steam.exe
+  prefix: ~/Games/DVXK
+system:
+  env:
+    DXVK_HUD: ''
+  game_path: ~/Games/Steam/drive_c/Program Files (x86)/Steam/steamapps/common/Divinity
+    Original Sin 2
+  terminal_app: konsole
+wine:
+  OffscreenRenderingMode: backbuffer
+  version: staging-3.5-x86_64

@@ -1,0 +1,39 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=HDD
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
+Icon=drive-harddisk
+LastNameSeen=Recovery
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb3]
+Icon=drive-harddisk
+LastNameSeen=EFI system partition
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb4]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=SSD
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=18.6 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=ESP
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc4]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=573.4 GiB Hard Drive
+LastSeenMounted=true

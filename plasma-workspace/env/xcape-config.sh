@@ -1,0 +1,1 @@
+/home/tom1/.config/autostart/xcape-config.sh

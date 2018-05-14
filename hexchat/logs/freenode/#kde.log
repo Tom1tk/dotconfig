@@ -1,0 +1,50 @@
+**** BEGIN LOGGING AT Wed May  2 20:29:57 2018
+
+May 02 20:29:57 *	Now talking on #kde
+May 02 20:29:57 *	Topic for #kde is: KDE Plasma 5.12 and KDE Applications 18.04 are out! See www.kde.org | http://userbase.kde.org | http://forum.kde.org | Don't flood the channel, use http://paste.kde.org | Distro related questions go in your distro channel | Offtopic in #kde-chat | State your distribution and KDE version when asking questions | Don't delete ~/.kde,~/.kde4,~/.local or ~/.config
+May 02 20:29:57 *	Topic for #kde set by tosky!~tosky@dynamic-adsl-78-15-5-216.clienti.tiscali.it (Tue Apr 24 14:10:26 2018)
+May 02 20:29:57 *	Channel #kde url: http://www.kde.org
+May 02 20:30:45 *	BeowulfRubix has quit (Ping timeout: 256 seconds)
+May 02 20:31:02 *	RingtailedFox (~FoxFoxFox@2001:1970:5d2a:c500:1c82:59b:e168:ca3a) has joined
+May 02 20:31:12 *	Blizzz (~blizzz@ubuntu/member/blizzz) has joined
+May 02 20:32:59 *	kallesbar has quit (Ping timeout: 260 seconds)
+May 02 20:33:16 *	ses1984 (~TODO@li777-75.members.linode.com) has joined
+May 02 20:33:27 *	rokups has quit (Quit: Connection closed for inactivity)
+May 02 20:34:04 <ses1984>	hey, i got a 4k monitor and tower, the resolution/dpi made things very small and hard to see, i tried lowering the resolution and i got a black screen, i'm not sure how to recover
+May 02 20:34:18 *	Vojtaeus (~vojta@opensuse/member/vojtaeus) has joined
+May 02 20:34:47 *	aheinecke has quit (Remote host closed the connection)
+May 02 20:34:48 *	rdieter (~rdieter1@fedora/rdieter) has joined
+May 02 20:34:51 <ses1984>	i switched to another vt and i have a command line but i'm not sure what to do next, tried google don't think i'm putting in the right search terms to get good results
+May 02 20:35:15 *	jasonwert (~w3rt@198.167.245.16) has joined
+May 02 20:35:57 <akik>	ses1984: i set the dpi using xrandr --dpi in the xorg initialization files
+May 02 20:36:03 <ses1984>	xrandr gives
+May 02 20:36:10 <ses1984>	can't open disply
+May 02 20:36:24 *	renn0xtk9 has quit (Quit: Konversation terminated!)
+May 02 20:36:29 <akik>	ses1984: open a new terminal
+May 02 20:36:41 <ses1984>	that's what i get in a new termina;
+May 02 20:36:59 <akik>	ses1984: ok you've changed something
+May 02 20:37:26 <ses1984>	maybe? i inherited this system
+May 02 20:38:13 <akik>	echo $DISPLAY should say something like :0
+May 02 20:38:26 <akik>	xauth list should list the xorg authentication cookies
+May 02 20:38:55 <ses1984>	it's empty but i get the same result when i set DISPLAY=:0
+May 02 20:39:05 <akik>	it shouldn't be empty
+May 02 20:39:05 <ses1984>	meaning xrandr still says can't open display
+May 02 20:39:17 <akik>	and you don't need to set DISPLAY
+May 02 20:39:22 <akik>	it should be automatic
+May 02 20:39:39 <akik>	i think you should create a new user
+May 02 20:40:33 *	JLP has quit (Ping timeout: 268 seconds)
+May 02 20:40:38 <ses1984>	not a bad idea
+May 02 20:43:46 <ses1984>	yay
+May 02 20:50:14 *	kpo__ has quit (Quit: Konversation terminated!)
+May 02 20:51:08 *	jsdk (~jsdk@188-182-112-209-dynamic.dk.customer.tdc.net) has joined
+May 02 20:52:50 *	JLP (~quassel@tm.78.153.49.115.dc.cable.static.telemach.net) has joined
+May 02 20:52:50 *	JLP has quit (Changing host)
+May 02 20:52:50 *	JLP (~quassel@kde/developer/repinc) has joined
+May 02 20:54:17 *	ArGGu^^ has quit (Quit: leaving)
+May 02 20:55:14 *	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com) has joined
+May 02 20:56:12 *	illkitten has quit (Client Quit)
+May 02 20:56:21 <phoenix_firebrd>	Does discover cache package list or some have some kind of cache which I can clear, If so how can I do that
+May 02 20:56:34 *	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com) has joined
+May 02 20:56:47 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Wed May  2 20:56:47 2018
+

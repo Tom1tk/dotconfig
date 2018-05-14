@@ -1,0 +1,9 @@
+ui.hide_hpto=true
+audio.crossfade_v2=true
+ui.track_notifications_enabled=false
+app.player.volume=37354
+audio.sync_bitrate_enumeration=4
+audio.play_bitrate_enumeration=4
+ui.show_unplayable_tracks=true
+audio.crossfade.time_v2=2600
+app.player.autoplay=false

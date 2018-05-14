@@ -1,0 +1,14 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+LockGrace=1
+
+[Greeter]
+Theme=com.github.varlesh.arc-dark
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.image][General]
+FillMode=2
+Image=file:///home/tom1/Pictures/ylo6z7D.png.jpg

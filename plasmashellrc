@@ -1,0 +1,117 @@
+[Containments][17][General]
+AppletOrder=18
+
+[Containments][19][General]
+AppletOrder=101;23;99
+
+[Containments][24][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+hiddenItems=Update Manager,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+
+[Containments][3][General]
+AppletOrder=4;5;6;7;9
+
+[Containments][48][General]
+AppletOrder=49;50;51;52;54
+
+[Containments][53][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+
+[Containments][62][General]
+AppletOrder=80;82;75;64;73
+
+[Containments][65][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+
+[Containments][8][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+
+[Containments][83][General]
+AppletOrder=102;87;98;100;85
+
+[Containments][88][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+hiddenItems=Update Manager,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+
+[DownloadDialog Settings]
+Height 1080=522
+Width 1920=700
+
+[FileDialogSize]
+Height 1080=480
+Width 1920=814
+
+[KFileDialog Settings]
+Recent Files[$e]=uozhvuvx5qn01.jpg,file:$HOME/Pictures/FuWBs9t.jpg,file:$HOME/Pictures/wallhaven-239327.jpg,file:$HOME/Pictures/Archlinux-icon-crystal-64.png,file:$HOME/Pictures/101867_archlinux_512x512.png,file:$HOME/Pictures/ylo6z7D.png.jpg,file:$HOME/Pictures/uozhvuvx5qn01.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+
+[KPropertiesDialog]
+Height 1080=456
+Width 1920=418
+
+[Notification Messages]
+really_clear_history=false
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_rofi,3 services_kwinscripts.desktop,1 services_mouse.desktop,2 services_khotkeys.desktop,2 services_autostart.desktop,2 services_org.kde.konsole.desktop,2 services_spotify.desktop,3 services_steam-native.desktop,1 services_atom.desktop,2 services_systemsettings.desktop,1 services_steam steam://open/settings
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 17][Horizontal1280]
+thickness=30
+
+[PlasmaViews][Panel 17][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 19][Horizontal1280]
+thickness=30
+
+[PlasmaViews][Panel 19][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 3][Horizontal1280]
+thickness=36
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 37][Horizontal1280]
+thickness=44
+
+[PlasmaViews][Panel 37][Horizontal1920]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 37][Vertical1080]
+thickness=30
+
+[PlasmaViews][Panel 48][Horizontal1280]
+thickness=36
+
+[PlasmaViews][Panel 49][Horizontal1280]
+thickness=36
+
+[PlasmaViews][Panel 62][Horizontal1280]
+thickness=27
+
+[PlasmaViews][Panel 62][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 83][Horizontal1280]
+thickness=38
+
+[PlasmaViews][Panel 83][Horizontal1920]
+thickness=36
+
+[ScreenConnectors]
+0=DVI-D-0
+1=HDMI-1
+2=DP-4
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

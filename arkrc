@@ -1,0 +1,18 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[MainWindow]
+Height 1080=718
+State=AAAA/wAAAAD9AAAAAAAABAUAAAJmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1920=1029
+splitterSizes=685,343
+
+[Recent Files]
+File1[$e]=$HOME/Documents/to new linux.zip
+Name1[$e]=to new linux.zip

@@ -1,0 +1,46 @@
+T 1525289397 19*	Now talking on 22#kde
+T 1525289397 22*	Topic for 22#kde is: KDE Plasma 5.12 and KDE Applications 18.04 are out! See www.kde.org | http://userbase.kde.org | http://forum.kde.org | Don't flood the channel, use http://paste.kde.org | Distro related questions go in your distro channel | Offtopic in #kde-chat | State your distribution and KDE version when asking questions | Don't delete ~/.kde,~/.kde4,~/.local or ~/.config
+T 1525289397 22*	Topic for 22#kde set by 26tosky!~tosky@dynamic-adsl-78-15-5-216.clienti.tiscali.it (24Tue Apr 24 14:10:26 2018)
+T 1525289397 22*	Channel 22#kde url: 24http://www.kde.org
+T 1525289445 24*	BeowulfRubix has quit (Ping timeout: 256 seconds)
+T 1525289462 23*	RingtailedFox (~FoxFoxFox@2001:1970:5d2a:c500:1c82:59b:e168:ca3a23) has joined
+T 1525289472 23*	Blizzz (~blizzz@ubuntu/member/blizzz23) has joined
+T 1525289579 24*	kallesbar has quit (Ping timeout: 260 seconds)
+T 1525289596 23*	ses1984 (~TODO@li777-75.members.linode.com23) has joined
+T 1525289607 24*	rokups has quit (Quit: Connection closed for inactivity)
+T 1525289644 18<ses198418>	hey, i got a 4k monitor and tower, the resolution/dpi made things very small and hard to see, i tried lowering the resolution and i got a black screen, i'm not sure how to recover
+T 1525289658 23*	Vojtaeus (~vojta@opensuse/member/vojtaeus23) has joined
+T 1525289687 24*	aheinecke has quit (Remote host closed the connection)
+T 1525289688 23*	rdieter (~rdieter1@fedora/rdieter23) has joined
+T 1525289691 18<ses198418>	i switched to another vt and i have a command line but i'm not sure what to do next, tried google don't think i'm putting in the right search terms to get good results
+T 1525289715 23*	jasonwert (~w3rt@198.167.245.1623) has joined
+T 1525289757 18<akik18>	ses1984: i set the dpi using xrandr --dpi in the xorg initialization files
+T 1525289763 18<ses198418>	xrandr gives
+T 1525289770 18<ses198418>	can't open disply
+T 1525289784 24*	renn0xtk9 has quit (Quit: Konversation terminated!)
+T 1525289789 18<akik18>	ses1984: open a new terminal
+T 1525289801 18<ses198418>	that's what i get in a new termina;
+T 1525289819 18<akik18>	ses1984: ok you've changed something
+T 1525289846 18<ses198418>	maybe? i inherited this system
+T 1525289893 18<akik18>	echo $DISPLAY should say something like :0
+T 1525289906 18<akik18>	xauth list should list the xorg authentication cookies
+T 1525289935 18<ses198418>	it's empty but i get the same result when i set DISPLAY=:0
+T 1525289945 18<akik18>	it shouldn't be empty
+T 1525289945 18<ses198418>	meaning xrandr still says can't open display
+T 1525289957 18<akik18>	and you don't need to set DISPLAY
+T 1525289962 18<akik18>	it should be automatic
+T 1525289979 18<akik18>	i think you should create a new user
+T 1525290033 24*	JLP has quit (Ping timeout: 268 seconds)
+T 1525290038 18<ses198418>	not a bad idea
+T 1525290226 18<ses198418>	yay
+T 1525290614 24*	kpo__ has quit (Quit: Konversation terminated!)
+T 1525290668 23*	jsdk (~jsdk@188-182-112-209-dynamic.dk.customer.tdc.net23) has joined
+T 1525290770 23*	JLP (~quassel@tm.78.153.49.115.dc.cable.static.telemach.net23) has joined
+T 1525290770 24*	JLP has quit (Changing host)
+T 1525290770 23*	JLP (~quassel@kde/developer/repinc23) has joined
+T 1525290857 24*	ArGGu^^ has quit (Quit: leaving)
+T 1525290914 23*	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com23) has joined
+T 1525290972 24*	illkitten has quit (Client Quit)
+T 1525290981 18<phoenix_firebrd18>	Does discover cache package list or some have some kind of cache which I can clear, If so how can I do that
+T 1525290994 23*	illkitten (~yaaic@cpe-173-88-22-29.columbus.res.rr.com23) has joined
+T 1525291007 FiSHLiM plugin unloaded

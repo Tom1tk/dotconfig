@@ -1,0 +1,131 @@
+[file:///etc/X11/xorg.conf]
+Bookmarks=
+Checksum=3f239909ebdbf720aa07cfb89acb2dfc67b9e5f8
+Encoding=UTF-8
+Highlighting=x.org Configuration
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=x.org Configuration
+Mode Set By User=false
+Time=2018,4,22,16,10,26
+URL=file:///etc/X11/xorg.conf
+
+[file:///home/tom1/.bashrc]
+Bookmarks=
+Checksum=adc861939ce918dbc2209315c919fd489312eba9
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2018,4,29,9,33,59
+URL=file:///home/tom1/.bashrc
+
+[file:///home/tom1/.config/autostart/xcape-config.sh]
+Bookmarks=
+Checksum=e406521dd9a1995777d3d179e58345aa15397350
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2018,5,11,20,18,33
+URL=file:///home/tom1/.config/autostart/xcape-config.sh
+
+[file:///home/tom1/.config/conky.conf]
+Bookmarks=
+Checksum=63ee9236f88420357cc9fe5d194afc76ec67544e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2018,4,30,18,0,25
+URL=file:///home/tom1/.config/conky.conf
+
+[file:///home/tom1/.config/csmd/csmd.conf]
+Bookmarks=
+Checksum=dadf8d187da774fbd8c53ef608874a30f76a3c11
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2018,4,28,16,59,44
+URL=file:///home/tom1/.config/csmd/csmd.conf
+
+[file:///home/tom1/.config/kwinrc]
+Bookmarks=
+Checksum=8a7599c1bc24c537013000ceabcc6e03240adb6b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2018,4,29,9,24,27
+URL=file:///home/tom1/.config/kwinrc
+
+[file:///home/tom1/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg]
+Bookmarks=
+Checksum=d7a8da0aa8130aa6991cb8b5cc76d2150dbcccf9
+Encoding=UTF-8
+Highlighting=Nagios
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Nagios
+Mode Set By User=false
+Time=2018,5,13,14,39,3
+URL=file:///home/tom1/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg
+
+[file:///home/tom1/.local/share/plasma/plasmoids/kpluginindex.json]
+Bookmarks=
+Checksum=dccfd179498bb7a3c35cbdd73b150432d3337f18
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2018,4,28,16,34,29
+URL=file:///home/tom1/.local/share/plasma/plasmoids/kpluginindex.json
+
+[file:///home/tom1/Desktop/update.sh]
+Bookmarks=
+Checksum=cac75ab520f597f5b321f718ebc8161a6ee0dbf8
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2018,4,29,9,31,34
+URL=file:///home/tom1/Desktop/update.sh
+
+[file:///home/tom1/Documents/save location.txt]
+Bookmarks=
+Checksum=cad9b10ee7e1fe20e0005cd636016497572298ee
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2018,5,10,21,23,15
+URL=file:///home/tom1/Documents/save location.txt
+
+[file:///usr/local/bin/csgo-csmd]
+Bookmarks=
+Checksum=e5ea71432e33417ffb9ab32f2f0f806105e14d44
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2018,4,28,16,58,54
+URL=file:///usr/local/bin/csgo-csmd
