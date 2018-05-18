@@ -1,18 +1,21 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Downloads/
+DirHistory[$e]=$HOME/Games/Smash/,$HOME/Downloads/
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME
-Recent URLs[$e]=file:$HOME/Downloads/
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Games/Smash/
 
 [MainWindow]
 Height 1080=718
 State=AAAA/wAAAAD9AAAAAAAABAUAAAJmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
-StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1920=1029
 splitterSizes=685,343
 
 [Recent Files]
 File1[$e]=$HOME/Documents/to new linux.zip
+File2[$e]=/run/media/tom1/SSD/Users/Tom/Documents/Dolphin Emulator/Games/Legacy XP 2.0 Full [Netplay].7z
+File3[$e]=$HOME/Games/Smash/Legacy XP 2.0 Full [Netplay].7z
 Name1[$e]=to new linux.zip
+Name2[$e]=Legacy XP 2.0 Full [Netplay].7z
+Name3[$e]=Legacy XP 2.0 Full [Netplay].7z

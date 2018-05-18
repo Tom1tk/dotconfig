@@ -12,14 +12,14 @@ URL=file:///etc/X11/xorg.conf
 
 [file:///home/tom1/.bashrc]
 Bookmarks=
-Checksum=adc861939ce918dbc2209315c919fd489312eba9
+Checksum=02bb1452313d087e2466f8937ade7ab4d0e34129
 Encoding=UTF-8
 Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2018,4,29,9,33,59
+Time=2018,5,14,21,51,6
 URL=file:///home/tom1/.bashrc
 
 [file:///home/tom1/.config/autostart/xcape-config.sh]
@@ -33,6 +33,18 @@ Mode=Bash
 Mode Set By User=false
 Time=2018,5,11,20,18,33
 URL=file:///home/tom1/.config/autostart/xcape-config.sh
+
+[file:///home/tom1/.config/backup.sh]
+Bookmarks=
+Checksum=1d59b850621166d2e53468a63ce125ae28a283fd
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2018,5,14,21,38,31
+URL=file:///home/tom1/.config/backup.sh
 
 [file:///home/tom1/.config/conky.conf]
 Bookmarks=
@@ -117,6 +129,30 @@ Mode=Normal
 Mode Set By User=false
 Time=2018,5,10,21,23,15
 URL=file:///home/tom1/Documents/save location.txt
+
+[file:///home/tom1/Games/Smash/Legacy XP 2.0 Full \x5bNetplay\x5d/Dolphin LXP/Config/portable.txt]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2018,5,15,19,18,19
+URL=file:///home/tom1/Games/Smash/Legacy XP 2.0 Full [Netplay]/Dolphin LXP/Config/portable.txt
+
+[file:///home/tom1/backup.sh]
+Bookmarks=
+Checksum=ae01f57ec2246ca91fdbcc62a9a4d57484bee2a3
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2018,5,14,21,49,35
+URL=file:///home/tom1/backup.sh
 
 [file:///usr/local/bin/csgo-csmd]
 Bookmarks=

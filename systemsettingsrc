@@ -3,7 +3,7 @@ Height 1080=522
 Width 1920=700
 
 [KFileDialog Settings]
-Recent Files[$e]=dmenu with win key,file:///usr/share/fonts/zevv-peep/zevv-peep-iso8859-15-07x14.bdf,file:$HOME/.config/autostart/xcape-config.sh,file:$HOME/Documents/dmenu with win key
+Recent Files[$e]=dmenu with win key,file:$HOME/backup.sh,file:///usr/share/fonts/zevv-peep/zevv-peep-iso8859-15-07x14.bdf,file:$HOME/.config/autostart/xcape-config.sh,file:$HOME/Documents/dmenu with win key
 Recent URLs[$e]=file:///usr/share/fonts/zevv-peep/,file:$HOME/.config/autostart/
 
 [KPropertiesDialog]
@@ -14,10 +14,10 @@ Width 1920=471
 Height 1024=645
 Height 1080=645
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABFUAAAKFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABH0AAAKFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1280=1015
-Width 1920=1199
+Width 1920=1149
 
 [Open-with settings]
 CompletionMode=1

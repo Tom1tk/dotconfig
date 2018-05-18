@@ -47,7 +47,7 @@ Height 1080=480
 Width 1920=814
 
 [KFileDialog Settings]
-Recent Files[$e]=uozhvuvx5qn01.jpg,file:$HOME/Pictures/FuWBs9t.jpg,file:$HOME/Pictures/wallhaven-239327.jpg,file:$HOME/Pictures/Archlinux-icon-crystal-64.png,file:$HOME/Pictures/101867_archlinux_512x512.png,file:$HOME/Pictures/ylo6z7D.png.jpg,file:$HOME/Pictures/uozhvuvx5qn01.jpg
+Recent Files[$e]=uozhvuvx5qn01.jpg,file:$HOME/Pictures/0q0g8osdf9y01.jpg,file:$HOME/Pictures/FuWBs9t.jpg,file:$HOME/Pictures/wallhaven-239327.jpg,file:$HOME/Pictures/Archlinux-icon-crystal-64.png,file:$HOME/Pictures/101867_archlinux_512x512.png,file:$HOME/Pictures/ylo6z7D.png.jpg,file:$HOME/Pictures/uozhvuvx5qn01.jpg
 Recent URLs[$e]=file:$HOME/Pictures/
 
 [KPropertiesDialog]
@@ -79,12 +79,16 @@ thickness=36
 [PlasmaViews][Panel 3][Horizontal1920]
 thickness=30
 
+[PlasmaViews][Panel 37]
+alignment=132
+panelVisibility=3
+
 [PlasmaViews][Panel 37][Horizontal1280]
 thickness=44
 
 [PlasmaViews][Panel 37][Horizontal1920]
-maxLength=1920
-minLength=1920
+maxLength=958
+minLength=906
 thickness=32
 
 [PlasmaViews][Panel 37][Vertical1080]
@@ -93,7 +97,13 @@ thickness=30
 [PlasmaViews][Panel 48][Horizontal1280]
 thickness=36
 
+[PlasmaViews][Panel 49]
+alignment=132
+panelVisibility=3
+
 [PlasmaViews][Panel 49][Horizontal1280]
+maxLength=810
+minLength=810
 thickness=36
 
 [PlasmaViews][Panel 62][Horizontal1280]
