@@ -144,14 +144,14 @@ URL=file:///home/tom1/Games/Smash/Legacy XP 2.0 Full [Netplay]/Dolphin LXP/Confi
 
 [file:///home/tom1/backup.sh]
 Bookmarks=
-Checksum=ae01f57ec2246ca91fdbcc62a9a4d57484bee2a3
+Checksum=d2b40d8590db836aec7edd211a345e6a74317bc6
 Encoding=UTF-8
 Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2018,5,14,21,49,35
+Time=2018,5,18,21,35,51
 URL=file:///home/tom1/backup.sh
 
 [file:///usr/local/bin/csgo-csmd]

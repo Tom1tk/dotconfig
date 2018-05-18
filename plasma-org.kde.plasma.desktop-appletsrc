@@ -30,7 +30,7 @@ PreloadWeight=0
 
 [Containments][10][General]
 iconSize=3
-positions=2,20,desktop:/DolphinLXPii,1,3,desktop:/trash.desktop,1,2,desktop:/Home.desktop,1,1
+positions=2,20,desktop:/DolphinLXPii,1,4,desktop:/Home.desktop,1,2,desktop:/trash.desktop,1,1
 sortMode=-1
 
 [Containments][10][Wallpaper][org.kde.image][General]

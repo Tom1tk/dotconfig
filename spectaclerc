@@ -3,6 +3,7 @@ lastSaveAsLocation=file:///home/tom1/Pictures/
 
 [GuiConfig]
 captureModeIndex=1
+includePointer=false
 lastUsedSaveMode=0
 window-position=419,287
 
