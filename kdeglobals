@@ -143,6 +143,10 @@ DisabledSemiTransparent=true
 DisabledValue=1
 Size=32
 
+[DirSelect Dialog]
+DirSelectDialog Size=640,480
+History Items[$e]=file:$HOME/Videos/OBS Recordings,file:$HOME/Videos/OBS Recordings,file:///run/media/tom1,file:$HOME
+
 [General]
 BrowserApplication[$e]=firefox.desktop
 ColorScheme=Arc Dark

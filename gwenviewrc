@@ -1,20 +1,30 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename
 
+[ImageView]
+ThumbnailSplitterSizes=316,90
+
 [MainWindow]
-Height 1024=480
-Height 1080=480
-State=AAAA/wAAAAD9AAAAAAAAAv4AAAGZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1024=652
+Height 1080=652
+State=AAAA/wAAAAD9AAAAAAAAAwIAAAJFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1280=764
-Width 1920=766
+Width 1280=770
+Width 1920=770
 
 [Recent Files]
 File1[$e]=https://cdn.discordapp.com/attachments/422356341911322637/437585154995781643/ylo6z7D.png
 File2[$e]=https://cdn.discordapp.com/attachments/422356341911322637/437584990663081993/yesnew3point5.png
 File3[$e]=$HOME/Pictures/stardew.png
-File4[$e]=$HOME/Pictures/audio config.png
+File4[$e]=$HOME/Pictures/Screenshot_20180429_165058.png
+File5[$e]=$HOME/Pictures/audio config.png
+File6[$e]=$HOME/Pictures/csgo drink.png
 Name1[$e]=ylo6z7D.png
 Name2[$e]=yesnew3point5.png
 Name3[$e]=stardew.png
-Name4[$e]=audio config.png
+Name4[$e]=Screenshot_20180429_165058.png
+Name5[$e]=audio config.png
+Name6[$e]=csgo drink.png
+
+[SideBar]
+IsVisible ViewMode=false

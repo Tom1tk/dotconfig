@@ -1038,16 +1038,16 @@ Type=SHORTCUT
 Uuid={dfb9a600-fac1-45b8-b9b6-9d7943f23736}
 
 [Data_7]
-Comment=opens dmenu
+Comment=opens rofi
 Enabled=true
-Name=open dmenu
+Name=open rofi run
 Type=SIMPLE_ACTION_DATA
 
 [Data_7Actions]
 ActionsCount=1
 
 [Data_7Actions0]
-CommandURL=dmenu_run
+CommandURL=rofi -combi-modi window,drun -show combi -modi combi
 Type=COMMAND_URL
 
 [Data_7Conditions]

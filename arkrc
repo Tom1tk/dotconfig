@@ -1,9 +1,9 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Games/Smash/,$HOME/Downloads/
+DirHistory[$e]=$HOME/Downloads/,$HOME/Games/Smash/
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Games/Smash/
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Games/Smash/,file:$HOME/Downloads/xotonic/
 
 [MainWindow]
 Height 1080=718
@@ -14,8 +14,8 @@ splitterSizes=685,343
 
 [Recent Files]
 File1[$e]=$HOME/Documents/to new linux.zip
-File2[$e]=/run/media/tom1/SSD/Users/Tom/Documents/Dolphin Emulator/Games/Legacy XP 2.0 Full [Netplay].7z
-File3[$e]=$HOME/Games/Smash/Legacy XP 2.0 Full [Netplay].7z
+File2[$e]=$HOME/Games/Smash/Legacy XP 2.0 Full [Netplay].7z
+File3[$e]=$HOME/Downloads/xonotic-0.8.2.zip
 Name1[$e]=to new linux.zip
 Name2[$e]=Legacy XP 2.0 Full [Netplay].7z
-Name3[$e]=Legacy XP 2.0 Full [Netplay].7z
+Name3[$e]=xonotic-0.8.2.zip

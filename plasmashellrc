@@ -19,8 +19,15 @@ AppletOrder=49;50;51;52;54
 extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
 knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
 
+[Containments][61][General]
+AppletOrder=62
+
 [Containments][62][General]
 AppletOrder=80;82;75;64;73
+
+[Containments][63][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
 
 [Containments][65][General]
 extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.clipboard
@@ -81,7 +88,7 @@ thickness=30
 
 [PlasmaViews][Panel 37]
 alignment=132
-panelVisibility=3
+panelVisibility=2
 
 [PlasmaViews][Panel 37][Horizontal1280]
 thickness=44
@@ -102,9 +109,21 @@ alignment=132
 panelVisibility=3
 
 [PlasmaViews][Panel 49][Horizontal1280]
-maxLength=810
-minLength=810
+maxLength=788
+minLength=788
 thickness=36
+
+[PlasmaViews][Panel 61]
+alignment=2
+panelVisibility=3
+
+[PlasmaViews][Panel 61][Horizontal1280]
+thickness=36
+
+[PlasmaViews][Panel 61][Horizontal1920]
+maxLength=288
+minLength=286
+thickness=30
 
 [PlasmaViews][Panel 62][Horizontal1280]
 thickness=27
